@@ -304,9 +304,8 @@ This project is created for educational and portfolio purposes.
 ## 👤 Author
 
 **Harper Zhang**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your Profile](https://linkedin.com/in/YOUR_PROFILE)
-- Portfolio: [Your Website](https://your-website.com)
+- GitHub: [@YOUR_USERNAME](https://github.com/harperz567)
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/xueyanzhang/)
 
 ---
 
