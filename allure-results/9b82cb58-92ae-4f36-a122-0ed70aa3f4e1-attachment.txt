@@ -1,0 +1,11 @@
+Current URL: http://localhost:3000/dashboard
+Page title: React App
+Looking for DSR link...
+Found 7 links on page
+  Link text: 'Dashboard'
+  Link text: 'Profile'
+  Link text: 'Salary'
+  Link text: 'DSR'
+  Link text: 'View Profile'
+  Link text: 'View Salary History'
+  Link text: 'Data Requests'

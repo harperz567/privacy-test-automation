@@ -1,0 +1,5 @@
+Setting up test users at http://localhost:5555...
+Registration response: 409
+Created employee user: 409
+Created hr user: 409
+Created admin user: 409

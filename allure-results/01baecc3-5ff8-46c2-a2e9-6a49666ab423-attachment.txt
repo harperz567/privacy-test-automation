@@ -1,0 +1,11 @@
+Creating driver...
+Creating temp user: test_a8df242s@example.com
+Temporary user logged in successfully
+Navigated to DSR page
+Found delete button: Delete My Account
+Clicked delete button
+Alert text: Are you sure you want to delete your account? This action cannot be undone.
+Accepted confirmation alert
+Success message: Account deletion request submitted. You will be logged out shortly.
+Login attempt response: 401
+Closing driver...

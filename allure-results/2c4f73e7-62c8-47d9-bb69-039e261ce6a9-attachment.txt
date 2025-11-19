@@ -1,0 +1,28 @@
+Setting up test users at http://localhost:5555...
+Registration response: 409
+Creating driver...
+Navigating to http://localhost:3000/login
+Current URL after navigation: http://localhost:3000/login
+Looking for email input...
+Found email input
+Entered email: employee@test.com
+Entered password
+Clicking login button...
+Waiting for dashboard redirect...
+Login successful! Current URL: http://localhost:3000/dashboard
+Looking for password manager popup...
+No password manager popup found or already closed
+Final URL: http://localhost:3000/dashboard
+Current URL: http://localhost:3000/dashboard
+Page title: React App
+Looking for DSR link...
+Found 7 links on page
+  Link text: 'Dashboard'
+  Link text: 'Profile'
+  Link text: 'Salary'
+  Link text: 'DSR'
+  Link text: 'View Profile'
+  Link text: 'View Salary History'
+  Link text: 'Data Requests'
+Closing driver...
+Test users setup complete

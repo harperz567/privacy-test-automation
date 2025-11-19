@@ -1,0 +1,19 @@
+{
+  "employee": {
+    "id": 2,
+    "email": "employee@test.com",
+    "full_name": "Test Employee",
+    "role": "employee",
+    "department": "Engineering",
+    "hire_date": "2025-11-18",
+    "created_at": "2025-11-18T18:42:13.090781",
+    "phone": null,
+    "address": null,
+    "ssn": null,
+    "manager_id": null
+  },
+  "salaries": [],
+  "reviews": [],
+  "attendance": [],
+  "consents": []
+}

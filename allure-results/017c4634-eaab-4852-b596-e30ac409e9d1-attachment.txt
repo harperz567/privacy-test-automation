@@ -1,0 +1,21 @@
+Creating driver...
+Navigating to http://localhost:3000/login
+Current URL after navigation: http://localhost:3000/login
+Looking for email input...
+Found email input
+Entered email: employee@test.com
+Entered password
+Clicking login button...
+Waiting for dashboard redirect...
+Login successful! Current URL: http://localhost:3000/dashboard
+Dashboard loaded
+Final URL: http://localhost:3000/dashboard
+Navigated to DSR page
+Found background check grant button
+Clicked grant button
+Success message: Consent for background_check updated successfully
+Found marketing revoke button
+Clicked revoke button
+Success message: Consent for marketing updated successfully
+Page refreshed to verify persistence
+Closing driver...

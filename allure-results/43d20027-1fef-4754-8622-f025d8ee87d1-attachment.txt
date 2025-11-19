@@ -1,0 +1,21 @@
+Creating driver...
+Navigating to http://localhost:3000/login
+Current URL after navigation: http://localhost:3000/login
+Looking for email input...
+Found email input
+Entered email: employee@test.com
+Entered password
+Clicking login button...
+Waiting for dashboard redirect...
+Login successful! Current URL: http://localhost:3000/dashboard
+Dashboard loaded
+Final URL: http://localhost:3000/dashboard
+Navigated to DSR page
+Found export button
+Clicked export button
+Export request submitted successfully
+Found history table
+Found 16 rows in table
+Last row text: 23 export completed 11/18/2025, 11:57:42 pm 11/18/2025, 11:57:42 pm
+✓ Export request found in history with valid status
+Closing driver...

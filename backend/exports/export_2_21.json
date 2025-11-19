@@ -1,0 +1,36 @@
+{
+  "employee": {
+    "id": 2,
+    "email": "employee@test.com",
+    "full_name": "Test Employee",
+    "role": "employee",
+    "department": "Engineering",
+    "hire_date": "2025-11-18",
+    "created_at": "2025-11-18T18:42:13.090781",
+    "phone": null,
+    "address": null,
+    "ssn": null,
+    "manager_id": null
+  },
+  "salaries": [],
+  "reviews": [],
+  "attendance": [],
+  "consents": [
+    {
+      "id": 1,
+      "employee_id": 2,
+      "consent_type": "background_check",
+      "is_granted": true,
+      "granted_at": "2025-11-18T21:44:24.032606",
+      "revoked_at": null
+    },
+    {
+      "id": 2,
+      "employee_id": 2,
+      "consent_type": "marketing",
+      "is_granted": false,
+      "granted_at": null,
+      "revoked_at": "2025-11-18T21:44:24.157706"
+    }
+  ]
+}
